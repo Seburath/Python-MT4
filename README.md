@@ -1,5 +1,5 @@
 # Python-MT4
-Simple MQL Socket Server for a Python Client
 
-If you want something more elaborated I recomend you ZeroMq:
-http://zeromq.org/
+Simple MQL Socket Server with a Python Client Script
+
+![Python-MT4](img/python-mt4.jpg)
