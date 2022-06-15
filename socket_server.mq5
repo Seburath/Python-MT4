@@ -1,7 +1,7 @@
 // ###################################################################
 // Based on the awesome example from: https://www.mql5.com/en/blogs/post/706665
-
 // ###################################################################
+
 #property strict
 
 #include <socket-library-mt4-mt5.mqh>
@@ -57,6 +57,7 @@ void OnDeinit(const int reason)
 // --------------------------------------------------------------------
 // Timer - accept new connections, and handle incoming data from clients
 // --------------------------------------------------------------------
+
 void OnTimer()
 {
    string recvMsg = "No data recived";
